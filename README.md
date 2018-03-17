@@ -9,3 +9,5 @@ Grabs the URL in a page and lists as internal or external URL's
   * Used to download the website
 * DOMDocument (http://php.net/manual/en/class.domdocument.php) : Class
   * Used to parse the DOM elements in downloaded website.
+
+Reference for regex pattern used in the project : (https://www.youtube.com/watch?v=OSEXJlyJq7c)
